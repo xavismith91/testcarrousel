@@ -132,7 +132,10 @@ a {
     position: absolute;
     z-index: 4;
     width: 48px;
-
+    height: 48px;
+    text-align: center;    
+    border: 0;
+    cursor: pointer;
 }
 
 
@@ -148,7 +151,7 @@ a {
 }
 
 .carrusel-prev {
-    left: 0%;
+    left: 0px;
 }
 
 .carrusel-next {
